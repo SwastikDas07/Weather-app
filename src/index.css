@@ -8,9 +8,8 @@
 }
 
 .app{
-  min-height: 100vh;
+  height: 100vh;
   display: grid;
-  /* background: #e2d4ff; */
    background-color: #0d1830;
     background-image: 
         radial-gradient(at 47% 33%, hsl(289.90, 87%, 47%) 0, transparent 59%), 
